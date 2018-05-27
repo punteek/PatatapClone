@@ -7,4 +7,4 @@ Additionally, this application incorporates Paper.js and Howler.js
 libraries for practice leveraging external resources that have already
 been built for public use. To use this application, simply clone/download
 the repository, open `circles.html`, and smash the letter keys on the keyboard
-to your heart's content!
+to your heart's content (make sure volume is on!).
